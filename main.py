@@ -1,3 +1,3 @@
 # This is a sample Python script.
 
-git
+print("I Love Pithon")
